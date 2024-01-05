@@ -1,4 +1,4 @@
-![IMPORTANT NOTICE](https://webstockreview.net/images/important-clipart-phone-message-4.png)
+![IMPORTANT NOTICE](https://2.bp.blogspot.com/-AWZF-W4U07Q/VBDQm_vSVcI/AAAAAAAAANw/HymanuuGAYQ/s1600/important.png))
 
 
 
@@ -8,4 +8,4 @@ Click the following link to launch a test lab: [Launch the Lab Orientation & Con
 Speed Test
 If you are experiencing frequent disconnects or lag when controlling your machines, you may run a speed test. This page allows you to run a connection assessment test. A connection assessment test is a very deep and thorough test that measures throughput speed, capacity, and packet quality to assess the user experience of a connection to their respective data center. This includes efficiency, data loss, recovery, duplication of data, retransmissions and even corruption.
 Run a speed test:
-^ [Speed Test](https://www.skillable.com/speed-test/)
+[Speed Test](https://www.skillable.com/speed-test/)
